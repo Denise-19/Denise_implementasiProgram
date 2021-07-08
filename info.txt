@@ -1,0 +1,5 @@
+default file = index.php
+
+Nama    : Denise Gratia Aruan
+email   : denisearuan19@gmail.com
+Wa      : 081375332884
